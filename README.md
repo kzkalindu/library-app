@@ -1,8 +1,8 @@
-# Library Management Mobile App
+# Library Mobile App
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A full-stack mobile app for library management with Librarian (manage books/users) and Reader (borrow books) roles. Built with Java Spring Boot (MongoDB) and Flutter, deployed on Heroku, and managed in a single GitHub repo.
+A full-stack mobile app for library with Librarian (manage books/users) and Reader (borrow books) roles. Built with Java Spring Boot (MongoDB) and Flutter, deployed on Heroku, and managed in a single GitHub repo.
 
 ## Features
 - **Roles**: Librarian (add/remove books, reports), Reader (borrow/return, history with fines).  
